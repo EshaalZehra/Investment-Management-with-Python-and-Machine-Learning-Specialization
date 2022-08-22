@@ -1,13 +1,27 @@
 # Investment-Management-with-Python-and-Machine-Learning-Specialization
 ♡♡♡
 
-Introduction to Portfolio Construction and Analysis with Python
+1.Introduction to Portfolio Construction and Analysis with Python
+W1
+W2
+W3
+W4
 
+2.Advanced Portfolio Construction and Analysis with Python
+W1
+W2
+W3
+W4
 
-Advanced Portfolio Construction and Analysis with Python
+3.Python and Machine-Learning for Asset Management with Alternative Data Sets
+W1
+W2
+W3
+W4
+W5
 
-
-Python and Machine-Learning for Asset Management with Alternative Data Sets
-
-
-Python and Machine-Learning for Asset Management with Alternative Data Sets
+4.Python and Machine-Learning for Asset Management with Alternative Data Sets
+W1
+W2
+W3
+W4
