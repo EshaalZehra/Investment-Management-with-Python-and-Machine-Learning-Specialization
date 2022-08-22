@@ -1,1 +1,79 @@
+W1
+
+W2
+
+W3
+
+W4
+Correct
+1.
+Question 1
+If we had a network with hundreds of stocks, and there were few connections between, but these connections from stock A to stock B were very high (say 20 connections), would our graph be sparse or dense, and would the high level of connections between given stocks skew the type of analysis we did?
+1 point
+Sparse, no 
+Correct
+
+2.
+Question 2
+Why don’t broad dictionaries of word-sentiment mappings work in the context of text around financial data?
+
+There are many terms which have finance specific meanings like liability. In the context of regular text, this would be a negative term, but in the context of finance it really is neutral.
+Correct
+
+3.
+Question 3
+For sentiment analysis, which of the following words might be different for finance vs. a general text documents?
+
+Liability
+Correct
+
+4.
+Question 4
+Which of the following is not considered a reason that analyzing media is difficult?
+
+There isn’t enough sources
+Correct
+
+5.
+Question 5
+Using the equation for tone, what would the tone be of an article if there were 5 positive words and 3 negative words?
+
+2/8
+Correct
+
+6.
+Question 6
+What innovation did Jagadeesh and Wu bring to sentiment analysis?
+
+They created a methodology to weight the impact of word sentiment based on prior market reactions.
+Correct
+
+7.
+Question 7
+What was the conclusion of the Fang and Peres paper?
+
+Companies with low media coverage over-perform companies with high media coverage in a statistically significant manner.
+Correct
+
+8.
+Question 8
+Which of the following is media not usually used to predict
+
+Risk
+Correct
+
+9.
+Question 9
+ What is the implication of Netflix having the most connections to it, but Amazon having the highest page rank in the twitter networks notebook
+
+It means that while Netflix has more connections, the connections that Amazon has are more reputable/have higher scores so they give Amazon the higher PageRank
+Correct
+
+10.
+Question 10
+Will PageRank deal with a) the importance of nodes in connections and b) normalization of the number of connections between a given node A and B (in terms of smoothing the distribution) ?
+
+Both A&B
+Correct
+
 
